@@ -3,9 +3,9 @@
 #### About me
 :small_blue_diamond: I'm 34 y.o. Java programmer <br/>
 :small_blue_diamond: I've been following Java roadmap since mid 2020 <br/>
-:small_blue_diamond: Apart from Java my "addiction" is chess! [My Lichess.org profile](https://lichess.org/@/Aleks_NCH) <br/>
+:small_blue_diamond: Apart from Java my "addiction" is chess! My [Lichess.org](https://lichess.org/@/Aleks_NCH) profile <br/>
 :small_blue_diamond: My English level is close to Upper-Intermediate  <br/>
-:small_blue_diamond: Feel free to telegram me [@alexander_nc](@alexander_nc) <br/>
+:small_blue_diamond: Feel free to telegram me [@alexander_nc](https://t.me/@alexander_nc) <br/>
 
 #### Core Technologies
 ![](https://img.shields.io/badge/Java-%3E%3D8-orange)

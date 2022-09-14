@@ -1,7 +1,7 @@
 ### Hi! I'm Alex! Nice to see you on my page! :wave:
 
 #### About me
-:small_blue_diamond: I'm 34 y.o. Java programmer <br/>
+:small_blue_diamond: I'm 35 y.o. Java programmer <br/>
 :small_blue_diamond: I've been following Java roadmap since mid 2020 <br/>
 :small_blue_diamond: Apart from Java my "addiction" is chess! My [Lichess.org](https://lichess.org/@/Aleks_NCH) profile <br/>
 :small_blue_diamond: My English level is close to Upper-Intermediate  <br/>
